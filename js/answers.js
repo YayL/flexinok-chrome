@@ -70,7 +70,7 @@ window.addEventListener("load", () => {
         } else {
           for (let i = 0; i < answers.solution.length; i++) {
             solutions.push(
-              `${answers.solution[i].subTask} ${answers.solution[i].answers}`
+              `<div>${answers.solution[i].subTask}\n<br>${answers.solution[i].answers}</div>`
             );
           }
         }

@@ -1,7 +1,7 @@
 {
   "name": "Flexienok Chrome",
   "version": "1.2.5",
-  "description": "Flexienok, now discreetly in the corner of your browser!",
+  "description": "A nokflex addon that gives you the answer",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
